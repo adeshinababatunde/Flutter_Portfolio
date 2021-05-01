@@ -80,9 +80,6 @@ class PortfolioApp extends StatelessWidget {
               Expanded(
                 child: Container(
                   padding: EdgeInsets.fromLTRB(10.0, 20.0, 10.0, 10.0),
-//                  decoration: BoxDecoration(
-//                    color: Colors.black87,
-//                  ),
                   child: Column(
                   children: <Widget>[
                     Expanded(
